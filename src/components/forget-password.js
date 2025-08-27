@@ -71,7 +71,7 @@ export function ForgotPassword() {
     <>
       <div className="logintopbar">
         <EmojiEventsOutlinedIcon style={{ marginRight: '1vw' }} />
-        FC4U
+        Fango11
       </div>
       {!open ? (
         <div className="login">
